@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: build-6.1-x86_64.yml
+name: build-6.1-x86_64
 
 on:
   repository_dispatch:
